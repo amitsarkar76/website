@@ -1,1 +1,1 @@
-live :- https://branded-thunder.github.io/website/
+live :- https://amitsarkar76.github.io/website/
