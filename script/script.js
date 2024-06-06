@@ -9,17 +9,4 @@ window.onscroll = function() {
         header.classList.remove('navbarDark');
     }
 }
-window.addEventListener("load", function() {
-  // Select the preloader element
-  var preloader = document.getElementById("loop");
-  // Select the bike wrapper element
-  var bikeWrapper = document.getElementById("bike-wrapper");
 
-  // Add a delay before hiding the elements (e.g., 1000 milliseconds = 1 second)
-  setTimeout(function() {
-      // Hide the preloader
-      preloader.style.display = "none";
-      // Hide the bike wrapper
-      bikeWrapper.style.display = "none";
-  }, 2900); // Adjust the delay time as needed
-});
